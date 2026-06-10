@@ -7,4 +7,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AliLZein/LeetCodeProblems/tree/master/0008-string-to-integer-atoi) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AliLZein/LeetCodeProblems/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AliLZein/LeetCodeProblems/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AliLZein/LeetCodeProblems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
