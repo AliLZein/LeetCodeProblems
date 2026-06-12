@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AliLZein/LeetCodeProblems/tree/master/0011-container-with-most-water) |
+| [0041-first-missing-positive](https://github.com/AliLZein/LeetCodeProblems/tree/master/0041-first-missing-positive) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/AliLZein/LeetCodeProblems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/AliLZein/LeetCodeProblems/tree/master/0041-first-missing-positive) |
 ## Math
 |  |
 | ------- |
