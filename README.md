@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/AliLZein/LeetCodeProblems/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/AliLZein/LeetCodeProblems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
