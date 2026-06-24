@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0043-multiply-strings) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AliLZein/LeetCodeProblems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AliLZein/LeetCodeProblems/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/AliLZein/LeetCodeProblems/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0043-multiply-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
