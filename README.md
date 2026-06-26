@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/AliLZein/LeetCodeProblems/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/AliLZein/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 ## Two Pointers
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AliLZein/LeetCodeProblems/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/AliLZein/LeetCodeProblems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/AliLZein/LeetCodeProblems/tree/master/0048-rotate-image) |
 ## Backtracking
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AliLZein/LeetCodeProblems/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/AliLZein/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 ## Stack
 |  |
