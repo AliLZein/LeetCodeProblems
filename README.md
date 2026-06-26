@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/AliLZein/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AliLZein/LeetCodeProblems/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/AliLZein/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/AliLZein/LeetCodeProblems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/AliLZein/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 ## Recursion
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0043-multiply-strings) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AliLZein/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
