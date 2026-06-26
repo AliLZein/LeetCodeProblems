@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AliLZein/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AliLZein/LeetCodeProblems/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/AliLZein/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/AliLZein/LeetCodeProblems/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/AliLZein/LeetCodeProblems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/AliLZein/LeetCodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/AliLZein/LeetCodeProblems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/AliLZein/LeetCodeProblems/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AliLZein/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AliLZein/LeetCodeProblems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
