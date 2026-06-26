@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AliLZein/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/AliLZein/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AliLZein/LeetCodeProblems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AliLZein/LeetCodeProblems/tree/master/0342-power-of-four) |
 ## Backtracking
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AliLZein/LeetCodeProblems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AliLZein/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AliLZein/LeetCodeProblems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AliLZein/LeetCodeProblems/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
@@ -146,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AliLZein/LeetCodeProblems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/AliLZein/LeetCodeProblems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
