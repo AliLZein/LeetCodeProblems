@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AliLZein/LeetCodeProblems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/AliLZein/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AliLZein/LeetCodeProblems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/AliLZein/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AliLZein/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/AliLZein/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AliLZein/LeetCodeProblems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AliLZein/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 ## Stack
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/AliLZein/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 ## Memoization
 |  |
 | ------- |
