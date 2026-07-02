@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AliLZein/LeetCodeProblems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/AliLZein/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AliLZein/LeetCodeProblems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AliLZein/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 ## Two Pointers
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AliLZein/LeetCodeProblems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/AliLZein/LeetCodeProblems/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AliLZein/LeetCodeProblems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AliLZein/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AliLZein/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/1013-fibonacci-number) |
