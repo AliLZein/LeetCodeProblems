@@ -141,16 +141,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Simulation
 |  |
@@ -171,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AliLZein/LeetCodeProblems/tree/master/0056-merge-intervals) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
