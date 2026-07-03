@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AliLZein/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AliLZein/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AliLZein/LeetCodeProblems/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/AliLZein/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 ## Two Pointers
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AliLZein/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AliLZein/LeetCodeProblems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/AliLZein/LeetCodeProblems/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/AliLZein/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/AliLZein/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/AliLZein/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AliLZein/LeetCodeProblems/tree/master/0326-power-of-three) |
