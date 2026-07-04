@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AliLZein/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AliLZein/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/AliLZein/LeetCodeProblems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/AliLZein/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 ## Two Pointers
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/AliLZein/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/AliLZein/LeetCodeProblems/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/AliLZein/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/AliLZein/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/AliLZein/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AliLZein/LeetCodeProblems/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/AliLZein/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 ## Stack
 |  |
