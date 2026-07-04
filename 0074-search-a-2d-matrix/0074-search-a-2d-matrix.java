@@ -5,23 +5,19 @@ class Solution
     {
         int rows = matrix.length;
         int cols = matrix[0].length;
-        int[] flat = new int[rows * cols];
-        int index = 0;
+        
+        int low = 0;
+        int high = (rows * cols) - 1;
 
-        for(int i = 0 ; i < rows ; i++)
+        while(low <= high)
         {
-            for(int j = 0 ; j < cols ; j++)
-            {
-                flat[index++] = matrix[i][j];
-            }
-        }
+            int mid = low + (high - low) / 2;
 
-        Arrays.sort(flat);
+            int midvalue  = matrix[mid / cols][mid % cols];
 
-        for(int i = 0 ; i < flat.length ; i++)
-        {
-            if(flat[i] == target){return true;}
-            else if(target < flat[i]){return false;}
+            if(midvalue == target){return true;}
+            else if(midvalue < target){low = mid + 1;}
+            else{high = mid - 1;}
         }
         return false;
     }
