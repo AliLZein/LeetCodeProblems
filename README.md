@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/AliLZein/LeetCodeProblems/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/AliLZein/LeetCodeProblems/tree/master/0079-word-search) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AliLZein/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AliLZein/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AliLZein/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AliLZein/LeetCodeProblems/tree/master/0079-word-search) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 ## Two Pointers
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AliLZein/LeetCodeProblems/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/AliLZein/LeetCodeProblems/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AliLZein/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AliLZein/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AliLZein/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AliLZein/LeetCodeProblems/tree/master/0079-word-search) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 ## Stack
 |  |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AliLZein/LeetCodeProblems/tree/master/0079-word-search) |
 | [0543-diameter-of-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
