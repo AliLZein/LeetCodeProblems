@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AliLZein/LeetCodeProblems/tree/master/0079-word-search) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
+| [1127-last-stone-weight](https://github.com/AliLZein/LeetCodeProblems/tree/master/1127-last-stone-weight) |
 ## Two Pointers
 |  |
 | ------- |
@@ -221,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0098-validate-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/AliLZein/LeetCodeProblems/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
