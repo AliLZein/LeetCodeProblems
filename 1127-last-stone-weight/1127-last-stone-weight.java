@@ -1,32 +1,27 @@
 import java.util.Collections;
+import java.util.PriorityQueue;
 class Solution 
 {
     public int lastStoneWeight(int[] stones) 
     {
-        ArrayList<Integer> list = new ArrayList<>(stones.length);
-        for(int num : stones)
+        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
+        
+        for(int n : stones)
         {
-            list.add(num);
+            pq.add(n);
         }
-        while(list.size() >= 2)
+
+        while(pq.size() > 1)
         {
-            Collections.sort(list);
+            int biggest = pq.poll();
+            int sbiggest = pq.poll();
 
-            int lastindx = list.size() - 1;
-            int secondlastindx = list.size() - 2;
-
-            if(list.get(lastindx) == list.get(secondlastindx))
+            if(biggest != sbiggest)
             {
-                list.remove(lastindx); 
-                list.remove(secondlastindx);
-            }
-            else
-            {
-                int newValue = list.get(lastindx) - list.get(secondlastindx);
-                list.set(lastindx , newValue); 
-                list.remove(secondlastindx);
+                pq.add(biggest - sbiggest);
             }
         }
-        return list.isEmpty() ? 0 : list.get(0);    
+
+        return pq.isEmpty() ? 0 : pq.peek();
     }
 }
