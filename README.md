@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AliLZein/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AliLZein/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AliLZein/LeetCodeProblems/tree/master/0079-word-search) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AliLZein/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/AliLZein/LeetCodeProblems/tree/master/1127-last-stone-weight) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/AliLZein/LeetCodeProblems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/AliLZein/LeetCodeProblems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0097-interleaving-string) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AliLZein/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 ## Recursion
