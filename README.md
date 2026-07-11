@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/AliLZein/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/AliLZein/LeetCodeProblems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/AliLZein/LeetCodeProblems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/AliLZein/LeetCodeProblems/tree/master/0091-decode-ways) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/AliLZein/LeetCodeProblems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/AliLZein/LeetCodeProblems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/AliLZein/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AliLZein/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AliLZein/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AliLZein/LeetCodeProblems/tree/master/0055-jump-game) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/AliLZein/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/AliLZein/LeetCodeProblems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/AliLZein/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AliLZein/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AliLZein/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
 ## Math
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AliLZein/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AliLZein/LeetCodeProblems/tree/master/0056-merge-intervals) |
 ## String Matching
 |  |
