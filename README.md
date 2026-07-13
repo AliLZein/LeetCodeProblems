@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AliLZein/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AliLZein/LeetCodeProblems/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/AliLZein/LeetCodeProblems/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0136-single-number) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/AliLZein/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AliLZein/LeetCodeProblems/tree/master/0342-power-of-four) |
 ## Sorting
