@@ -1,34 +1,27 @@
 class Solution 
 {
+    private int count = 0;
+
     public int countSubstrings(String s) 
     {
-        if(s == null || s.length() == 0){return 0;}
+        if (s == null || s.length() == 0) return 0;
 
-        int answer = s.length();
-        int j;
-
-        for(int i = 0 ; i < s.length() ; i++)
+        for (int i = 0; i < s.length(); i++) 
         {
-            j = i + 1;
-            while(j < s.length())
-            {
-                if(palindrome(s.substring(i , j + 1))){answer += 1;}
-                j += 1;
-            }
-        } 
-        return answer; 
+            expandAroundCenter(s, i, i);
+            expandAroundCenter(s, i, i + 1);
+        }
+
+        return count;
     }
 
-    public boolean palindrome(String s)
+    private void expandAroundCenter(String s, int left, int right)
     {
-        int j = s.length() - 1;
-        int i = 0;
-        while(i < j)
+        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) 
         {
-            if(s.charAt(i) != s.charAt(j)){return false;}
-            j -= 1;
-            i += 1;
+            count++;   
+            left--;   
+            right++;   
         }
-        return true;
     }
 }
