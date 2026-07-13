@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AliLZein/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/AliLZein/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0567-permutation-in-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0647-palindromic-substrings) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AliLZein/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/AliLZein/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/AliLZein/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
+| [0647-palindromic-substrings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
