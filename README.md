@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AliLZein/LeetCodeProblems/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/AliLZein/LeetCodeProblems/tree/master/0134-gas-station) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
+| [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/AliLZein/LeetCodeProblems/tree/master/1127-last-stone-weight) |
 | [2139-detect-squares](https://github.com/AliLZein/LeetCodeProblems/tree/master/2139-detect-squares) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AliLZein/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/AliLZein/LeetCodeProblems/tree/master/0134-gas-station) |
+| [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AliLZein/LeetCodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/AliLZein/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0567-permutation-in-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
 | [2139-detect-squares](https://github.com/AliLZein/LeetCodeProblems/tree/master/2139-detect-squares) |
 ## Math
 |  |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/AliLZein/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AliLZein/LeetCodeProblems/tree/master/0056-merge-intervals) |
+| [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
 ## String Matching
 |  |
 | ------- |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AliLZein/LeetCodeProblems/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
 | [1127-last-stone-weight](https://github.com/AliLZein/LeetCodeProblems/tree/master/1127-last-stone-weight) |
 ## Union-Find
 |  |
@@ -308,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
 | [2139-detect-squares](https://github.com/AliLZein/LeetCodeProblems/tree/master/2139-detect-squares) |
 ## Data Stream
 |  |
