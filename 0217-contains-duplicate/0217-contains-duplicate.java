@@ -5,7 +5,7 @@ class Solution
         Set<Integer> setting = new HashSet<>();
         for(int n : nums)
         {
-            setting.add(n);
+            if(!setting.add(n)){return true;}
         }
 
         return setting.size() < nums.length;
