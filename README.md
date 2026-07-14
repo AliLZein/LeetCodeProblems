@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/AliLZein/LeetCodeProblems/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/AliLZein/LeetCodeProblems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
 | [0747-min-cost-climbing-stairs](https://github.com/AliLZein/LeetCodeProblems/tree/master/0747-min-cost-climbing-stairs) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AliLZein/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AliLZein/LeetCodeProblems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
 | [2139-detect-squares](https://github.com/AliLZein/LeetCodeProblems/tree/master/2139-detect-squares) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AliLZein/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/AliLZein/LeetCodeProblems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AliLZein/LeetCodeProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AliLZein/LeetCodeProblems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/1013-fibonacci-number) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AliLZein/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AliLZein/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AliLZein/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/AliLZein/LeetCodeProblems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AliLZein/LeetCodeProblems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AliLZein/LeetCodeProblems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AliLZein/LeetCodeProblems/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
@@ -296,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AliLZein/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AliLZein/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/AliLZein/LeetCodeProblems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
 ## String Matching
 |  |
