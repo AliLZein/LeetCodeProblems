@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/AliLZein/LeetCodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/AliLZein/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AliLZein/LeetCodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/AliLZein/LeetCodeProblems/tree/master/0191-number-of-1-bits) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/AliLZein/LeetCodeProblems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AliLZein/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AliLZein/LeetCodeProblems/tree/master/0342-power-of-four) |
 ## Sorting
