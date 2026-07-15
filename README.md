@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/AliLZein/LeetCodeProblems/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/AliLZein/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/AliLZein/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/AliLZein/LeetCodeProblems/tree/master/0139-word-break) |
 | [0567-permutation-in-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0647-palindromic-substrings) |
 ## Array
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AliLZein/LeetCodeProblems/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/AliLZein/LeetCodeProblems/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/AliLZein/LeetCodeProblems/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/AliLZein/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AliLZein/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/AliLZein/LeetCodeProblems/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/AliLZein/LeetCodeProblems/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/AliLZein/LeetCodeProblems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AliLZein/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AliLZein/LeetCodeProblems/tree/master/0217-contains-duplicate) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AliLZein/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/AliLZein/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/AliLZein/LeetCodeProblems/tree/master/0139-word-break) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/AliLZein/LeetCodeProblems/tree/master/0747-min-cost-climbing-stairs) |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AliLZein/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/AliLZein/LeetCodeProblems/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -358,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AliLZein/LeetCodeProblems/tree/master/0133-clone-graph) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AliLZein/LeetCodeProblems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
