@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/AliLZein/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/AliLZein/LeetCodeProblems/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/AliLZein/LeetCodeProblems/tree/master/1127-last-stone-weight) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/AliLZein/LeetCodeProblems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/AliLZein/LeetCodeProblems/tree/master/0133-clone-graph) |
+| [0695-max-area-of-island](https://github.com/AliLZein/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Matrix
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AliLZein/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AliLZein/LeetCodeProblems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/AliLZein/LeetCodeProblems/tree/master/0130-surrounded-regions) |
+| [0695-max-area-of-island](https://github.com/AliLZein/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 ## Stack
 |  |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AliLZein/LeetCodeProblems/tree/master/0133-clone-graph) |
 | [0543-diameter-of-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/AliLZein/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AliLZein/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AliLZein/LeetCodeProblems/tree/master/0130-surrounded-regions) |
+| [0695-max-area-of-island](https://github.com/AliLZein/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AliLZein/LeetCodeProblems/tree/master/1706-min-cost-to-connect-all-points) |
 ## Merge Sort
 |  |
