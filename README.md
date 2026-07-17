@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AliLZein/LeetCodeProblems/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AliLZein/LeetCodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/AliLZein/LeetCodeProblems/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AliLZein/LeetCodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AliLZein/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AliLZein/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AliLZein/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AliLZein/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AliLZein/LeetCodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
