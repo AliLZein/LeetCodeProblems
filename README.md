@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/AliLZein/LeetCodeProblems/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/AliLZein/LeetCodeProblems/tree/master/1127-last-stone-weight) |
+| [1706-min-cost-to-connect-all-points](https://github.com/AliLZein/LeetCodeProblems/tree/master/1706-min-cost-to-connect-all-points) |
 | [2139-detect-squares](https://github.com/AliLZein/LeetCodeProblems/tree/master/2139-detect-squares) |
 ## Two Pointers
 |  |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AliLZein/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AliLZein/LeetCodeProblems/tree/master/0130-surrounded-regions) |
+| [1706-min-cost-to-connect-all-points](https://github.com/AliLZein/LeetCodeProblems/tree/master/1706-min-cost-to-connect-all-points) |
 ## Merge Sort
 |  |
 | ------- |
@@ -378,8 +380,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AliLZein/LeetCodeProblems/tree/master/0133-clone-graph) |
+| [1706-min-cost-to-connect-all-points](https://github.com/AliLZein/LeetCodeProblems/tree/master/1706-min-cost-to-connect-all-points) |
 ## Trie
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AliLZein/LeetCodeProblems/tree/master/0139-word-break) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/AliLZein/LeetCodeProblems/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
