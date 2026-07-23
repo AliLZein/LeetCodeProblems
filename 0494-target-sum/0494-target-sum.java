@@ -2,20 +2,29 @@ class Solution
 {
     public int findTargetSumWays(int[] nums, int target) 
     {
-        return helper(nums, target, 0, 0);
-    }
-
-    private int helper(int[] nums, int target, int i, int currentSum) {
-
-        if (i == nums.length) 
+        int sum = 0;
+        for (int num : nums) 
         {
-            return currentSum == target ? 1 : 0;
+            sum += num;
         }
 
-        int add = helper(nums, target, i + 1, currentSum + nums[i]);
-        
-        int subtract = helper(nums, target, i + 1, currentSum - nums[i]);
+        if (Math.abs(target) > sum || (sum + target) % 2 != 0) 
+        {
+            return 0;
+        }
 
-        return add + subtract;
+        int subsetTarget = (sum + target) / 2;
+        int[] dp = new int[subsetTarget + 1];
+        dp[0] = 1;
+
+        for (int num : nums) 
+        {
+            for (int j = subsetTarget; j >= num; j--) 
+            {
+                dp[j] += dp[j - num];
+            }
+        }
+
+        return dp[subsetTarget];
     }
 }
