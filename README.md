@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AliLZein/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AliLZein/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0494-target-sum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/AliLZein/LeetCodeProblems/tree/master/0695-max-area-of-island) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AliLZein/LeetCodeProblems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/AliLZein/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AliLZein/LeetCodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AliLZein/LeetCodeProblems/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/AliLZein/LeetCodeProblems/tree/master/0338-counting-bits) |
+| [0494-target-sum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0678-valid-parenthesis-string) |
