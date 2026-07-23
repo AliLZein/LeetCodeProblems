@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AliLZein/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/AliLZein/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/AliLZein/LeetCodeProblems/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/AliLZein/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0678-valid-parenthesis-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AliLZein/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AliLZein/LeetCodeProblems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AliLZein/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AliLZein/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AliLZein/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/AliLZein/LeetCodeProblems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AliLZein/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
 ## String Matching
