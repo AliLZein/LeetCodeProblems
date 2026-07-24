@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AliLZein/LeetCodeProblems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AliLZein/LeetCodeProblems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/AliLZein/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0647-palindromic-substrings) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AliLZein/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/AliLZein/LeetCodeProblems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AliLZein/LeetCodeProblems/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/AliLZein/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AliLZein/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0268-missing-number) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AliLZein/LeetCodeProblems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/AliLZein/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AliLZein/LeetCodeProblems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/AliLZein/LeetCodeProblems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AliLZein/LeetCodeProblems/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/AliLZein/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 ## Stack
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AliLZein/LeetCodeProblems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AliLZein/LeetCodeProblems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0212-word-search-ii) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
