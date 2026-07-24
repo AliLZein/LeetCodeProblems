@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/AliLZein/LeetCodeProblems/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/AliLZein/LeetCodeProblems/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Matrix
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/AliLZein/LeetCodeProblems/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/AliLZein/LeetCodeProblems/tree/master/0744-network-delay-time) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/AliLZein/LeetCodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AliLZein/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/AliLZein/LeetCodeProblems/tree/master/0744-network-delay-time) |
 | [1127-last-stone-weight](https://github.com/AliLZein/LeetCodeProblems/tree/master/1127-last-stone-weight) |
 ## Union-Find
 |  |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AliLZein/LeetCodeProblems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/AliLZein/LeetCodeProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/AliLZein/LeetCodeProblems/tree/master/0744-network-delay-time) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AliLZein/LeetCodeProblems/tree/master/1706-min-cost-to-connect-all-points) |
 ## Trie
 |  |
@@ -486,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AliLZein/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/AliLZein/LeetCodeProblems/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
