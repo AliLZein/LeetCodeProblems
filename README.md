@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/AliLZein/LeetCodeProblems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/AliLZein/LeetCodeProblems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/AliLZein/LeetCodeProblems/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/AliLZein/LeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AliLZein/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/AliLZein/LeetCodeProblems/tree/master/0695-max-area-of-island) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AliLZein/LeetCodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/AliLZein/LeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AliLZein/LeetCodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/AliLZein/LeetCodeProblems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/AliLZein/LeetCodeProblems/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/AliLZein/LeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AliLZein/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AliLZein/LeetCodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AliLZein/LeetCodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/AliLZein/LeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AliLZein/LeetCodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
