@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/AliLZein/LeetCodeProblems/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/AliLZein/LeetCodeProblems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AliLZein/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/AliLZein/LeetCodeProblems/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AliLZein/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AliLZein/LeetCodeProblems/tree/master/0242-valid-anagram) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/AliLZein/LeetCodeProblems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AliLZein/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/AliLZein/LeetCodeProblems/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/AliLZein/LeetCodeProblems/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/AliLZein/LeetCodeProblems/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AliLZein/LeetCodeProblems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AliLZein/LeetCodeProblems/tree/master/0155-min-stack) |
 | [2139-detect-squares](https://github.com/AliLZein/LeetCodeProblems/tree/master/2139-detect-squares) |
 ## Counting
@@ -439,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AliLZein/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AliLZein/LeetCodeProblems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
