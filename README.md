@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AliLZein/LeetCodeProblems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AliLZein/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/AliLZein/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AliLZein/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0268-missing-number) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AliLZein/LeetCodeProblems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AliLZein/LeetCodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/AliLZein/LeetCodeProblems/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/AliLZein/LeetCodeProblems/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
