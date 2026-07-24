@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AliLZein/LeetCodeProblems/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/AliLZein/LeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AliLZein/LeetCodeProblems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/AliLZein/LeetCodeProblems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/AliLZein/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AliLZein/LeetCodeProblems/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/AliLZein/LeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AliLZein/LeetCodeProblems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/AliLZein/LeetCodeProblems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AliLZein/LeetCodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AliLZein/LeetCodeProblems/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/AliLZein/LeetCodeProblems/tree/master/0207-course-schedule) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AliLZein/LeetCodeProblems/tree/master/1706-min-cost-to-connect-all-points) |
 ## Trie
 |  |
@@ -450,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AliLZein/LeetCodeProblems/tree/master/0146-lru-cache) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AliLZein/LeetCodeProblems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
