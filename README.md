@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AliLZein/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0494-target-sum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/AliLZein/LeetCodeProblems/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AliLZein/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/AliLZein/LeetCodeProblems/tree/master/0768-partition-labels) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AliLZein/LeetCodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AliLZein/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/AliLZein/LeetCodeProblems/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/AliLZein/LeetCodeProblems/tree/master/0794-swim-in-rising-water) |
 ## Divide and Conquer
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/AliLZein/LeetCodeProblems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AliLZein/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AliLZein/LeetCodeProblems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AliLZein/LeetCodeProblems/tree/master/0342-power-of-four) |
 ## Sorting
