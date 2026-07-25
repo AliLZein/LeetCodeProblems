@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/AliLZein/LeetCodeProblems/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/AliLZein/LeetCodeProblems/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/AliLZein/LeetCodeProblems/tree/master/0794-swim-in-rising-water) |
+| [0876-hand-of-straights](https://github.com/AliLZein/LeetCodeProblems/tree/master/0876-hand-of-straights) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/AliLZein/LeetCodeProblems/tree/master/1127-last-stone-weight) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AliLZein/LeetCodeProblems/tree/master/1706-min-cost-to-connect-all-points) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/AliLZein/LeetCodeProblems/tree/master/0768-partition-labels) |
+| [0876-hand-of-straights](https://github.com/AliLZein/LeetCodeProblems/tree/master/0876-hand-of-straights) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/AliLZein/LeetCodeProblems/tree/master/0768-partition-labels) |
+| [0876-hand-of-straights](https://github.com/AliLZein/LeetCodeProblems/tree/master/0876-hand-of-straights) |
 | [2139-detect-squares](https://github.com/AliLZein/LeetCodeProblems/tree/master/2139-detect-squares) |
 ## Math
 |  |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/AliLZein/LeetCodeProblems/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/AliLZein/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/AliLZein/LeetCodeProblems/tree/master/0876-hand-of-straights) |
 ## String Matching
 |  |
 | ------- |
