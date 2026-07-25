@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/AliLZein/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/AliLZein/LeetCodeProblems/tree/master/0332-reconstruct-itinerary) |
 | [0567-permutation-in-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0678-valid-parenthesis-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/AliLZein/LeetCodeProblems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/AliLZein/LeetCodeProblems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliLZein/LeetCodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/AliLZein/LeetCodeProblems/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/AliLZein/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliLZein/LeetCodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/AliLZein/LeetCodeProblems/tree/master/0332-reconstruct-itinerary) |
 | [0543-diameter-of-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/AliLZein/LeetCodeProblems/tree/master/0684-redundant-connection) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AliLZein/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/AliLZein/LeetCodeProblems/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/AliLZein/LeetCodeProblems/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/AliLZein/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
 ## String Matching
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AliLZein/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/AliLZein/LeetCodeProblems/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/AliLZein/LeetCodeProblems/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/AliLZein/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/AliLZein/LeetCodeProblems/tree/master/0744-network-delay-time) |
@@ -525,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AliLZein/LeetCodeProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliLZein/LeetCodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/AliLZein/LeetCodeProblems/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/AliLZein/LeetCodeProblems/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/AliLZein/LeetCodeProblems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AliLZein/LeetCodeProblems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -576,4 +582,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AliLZein/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/AliLZein/LeetCodeProblems/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
