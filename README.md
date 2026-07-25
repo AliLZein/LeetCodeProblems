@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/AliLZein/LeetCodeProblems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/AliLZein/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0567-permutation-in-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0678-valid-parenthesis-string) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AliLZein/LeetCodeProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0684-redundant-connection](https://github.com/AliLZein/LeetCodeProblems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AliLZein/LeetCodeProblems/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/AliLZein/LeetCodeProblems/tree/master/0744-network-delay-time) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AliLZein/LeetCodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AliLZein/LeetCodeProblems/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AliLZein/LeetCodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/AliLZein/LeetCodeProblems/tree/master/0684-redundant-connection) |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AliLZein/LeetCodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AliLZein/LeetCodeProblems/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -476,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AliLZein/LeetCodeProblems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/AliLZein/LeetCodeProblems/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AliLZein/LeetCodeProblems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2139-detect-squares](https://github.com/AliLZein/LeetCodeProblems/tree/master/2139-detect-squares) |
 ## Counting
