@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/AliLZein/LeetCodeProblems/tree/master/0768-partition-labels) |
+| [1023-time-based-key-value-store](https://github.com/AliLZein/LeetCodeProblems/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/AliLZein/LeetCodeProblems/tree/master/1250-longest-common-subsequence) |
 ## Array
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/AliLZein/LeetCodeProblems/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/AliLZein/LeetCodeProblems/tree/master/0876-hand-of-straights) |
+| [1023-time-based-key-value-store](https://github.com/AliLZein/LeetCodeProblems/tree/master/1023-time-based-key-value-store) |
 | [2139-detect-squares](https://github.com/AliLZein/LeetCodeProblems/tree/master/2139-detect-squares) |
 ## Math
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/AliLZein/LeetCodeProblems/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/AliLZein/LeetCodeProblems/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/AliLZein/LeetCodeProblems/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/AliLZein/LeetCodeProblems/tree/master/1023-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/AliLZein/LeetCodeProblems/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AliLZein/LeetCodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AliLZein/LeetCodeProblems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1023-time-based-key-value-store](https://github.com/AliLZein/LeetCodeProblems/tree/master/1023-time-based-key-value-store) |
 | [2139-detect-squares](https://github.com/AliLZein/LeetCodeProblems/tree/master/2139-detect-squares) |
 ## Counting
 |  |
