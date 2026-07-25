@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliLZein/LeetCodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/AliLZein/LeetCodeProblems/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/AliLZein/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AliLZein/LeetCodeProblems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AliLZein/LeetCodeProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/AliLZein/LeetCodeProblems/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/AliLZein/LeetCodeProblems/tree/master/0647-palindromic-substrings) |
