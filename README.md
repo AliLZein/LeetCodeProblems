@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AliLZein/LeetCodeProblems/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/AliLZein/LeetCodeProblems/tree/master/0312-burst-balloons) |
 | [0494-target-sum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AliLZein/LeetCodeProblems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AliLZein/LeetCodeProblems/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/AliLZein/LeetCodeProblems/tree/master/0312-burst-balloons) |
 | [0338-counting-bits](https://github.com/AliLZein/LeetCodeProblems/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/AliLZein/LeetCodeProblems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AliLZein/LeetCodeProblems/tree/master/0518-coin-change-ii) |
