@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/AliLZein/LeetCodeProblems/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/AliLZein/LeetCodeProblems/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/AliLZein/LeetCodeProblems/tree/master/1250-longest-common-subsequence) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/AliLZein/LeetCodeProblems/tree/master/1127-last-stone-weight) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AliLZein/LeetCodeProblems/tree/master/1706-min-cost-to-connect-all-points) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/AliLZein/LeetCodeProblems/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2139-detect-squares](https://github.com/AliLZein/LeetCodeProblems/tree/master/2139-detect-squares) |
 ## Two Pointers
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/AliLZein/LeetCodeProblems/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/AliLZein/LeetCodeProblems/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/AliLZein/LeetCodeProblems/tree/master/1023-time-based-key-value-store) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2139-detect-squares](https://github.com/AliLZein/LeetCodeProblems/tree/master/2139-detect-squares) |
 ## Math
 |  |
