@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/AliLZein/LeetCodeProblems/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/AliLZein/LeetCodeProblems/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/AliLZein/LeetCodeProblems/tree/master/1250-longest-common-subsequence) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 ## Array
 |  |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AliLZein/LeetCodeProblems/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/AliLZein/LeetCodeProblems/tree/master/0739-daily-temperatures) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -617,4 +619,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/AliLZein/LeetCodeProblems/tree/master/0332-reconstruct-itinerary) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
