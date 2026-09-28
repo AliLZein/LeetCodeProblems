@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/AliLZein/LeetCodeProblems/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/AliLZein/LeetCodeProblems/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 ## Array
 |  |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/AliLZein/LeetCodeProblems/tree/master/0739-daily-temperatures) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -623,4 +625,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
