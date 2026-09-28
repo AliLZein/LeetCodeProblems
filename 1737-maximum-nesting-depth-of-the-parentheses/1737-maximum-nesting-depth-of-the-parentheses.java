@@ -4,10 +4,12 @@ class Solution
     {
         int max = 0;
         int depth = 0;
-        for(int i = 0 ; i < s.length() ; i++)
+        char[] list = s.toCharArray();
+
+        for(int c : list)
         {
-            if(s.charAt(i) == '(') depth += 1;
-            if(s.charAt(i) == ')')
+            if(c == '(') depth += 1;
+            if(c == ')')
             {
                 if(max < depth)
                 {
