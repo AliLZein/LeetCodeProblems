@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/AliLZein/LeetCodeProblems/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/AliLZein/LeetCodeProblems/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/AliLZein/LeetCodeProblems/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/AliLZein/LeetCodeProblems/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/AliLZein/LeetCodeProblems/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/AliLZein/LeetCodeProblems/tree/master/1127-last-stone-weight) |
 | [1706-min-cost-to-connect-all-points](https://github.com/AliLZein/LeetCodeProblems/tree/master/1706-min-cost-to-connect-all-points) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AliLZein/LeetCodeProblems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AliLZein/LeetCodeProblems/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/AliLZein/LeetCodeProblems/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/AliLZein/LeetCodeProblems/tree/master/1014-k-closest-points-to-origin) |
 ## Backtracking
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AliLZein/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AliLZein/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/AliLZein/LeetCodeProblems/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/AliLZein/LeetCodeProblems/tree/master/1014-k-closest-points-to-origin) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AliLZein/LeetCodeProblems/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/AliLZein/LeetCodeProblems/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/AliLZein/LeetCodeProblems/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/AliLZein/LeetCodeProblems/tree/master/1014-k-closest-points-to-origin) |
 ## String Matching
 |  |
 | ------- |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/AliLZein/LeetCodeProblems/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AliLZein/LeetCodeProblems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/AliLZein/LeetCodeProblems/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/AliLZein/LeetCodeProblems/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/AliLZein/LeetCodeProblems/tree/master/1127-last-stone-weight) |
 ## Union-Find
 |  |
@@ -615,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AliLZein/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AliLZein/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/AliLZein/LeetCodeProblems/tree/master/1014-k-closest-points-to-origin) |
 ## Shortest Path
 |  |
 | ------- |
@@ -642,7 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AliLZein/LeetCodeProblems/tree/master/0169-majority-element) |
@@ -654,4 +660,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/AliLZein/LeetCodeProblems/tree/master/0948-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/AliLZein/LeetCodeProblems/tree/master/1014-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/AliLZein/LeetCodeProblems/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
