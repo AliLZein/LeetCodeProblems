@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/AliLZein/LeetCodeProblems/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/AliLZein/LeetCodeProblems/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2139-detect-squares](https://github.com/AliLZein/LeetCodeProblems/tree/master/2139-detect-squares) |
+| [4141-count-elements-with-at-least-k-greater-values](https://github.com/AliLZein/LeetCodeProblems/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/AliLZein/LeetCodeProblems/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/AliLZein/LeetCodeProblems/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/AliLZein/LeetCodeProblems/tree/master/1023-time-based-key-value-store) |
+| [4141-count-elements-with-at-least-k-greater-values](https://github.com/AliLZein/LeetCodeProblems/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AliLZein/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/AliLZein/LeetCodeProblems/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/AliLZein/LeetCodeProblems/tree/master/1014-k-closest-points-to-origin) |
+| [4141-count-elements-with-at-least-k-greater-values](https://github.com/AliLZein/LeetCodeProblems/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/AliLZein/LeetCodeProblems/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/AliLZein/LeetCodeProblems/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/AliLZein/LeetCodeProblems/tree/master/1014-k-closest-points-to-origin) |
+| [4141-count-elements-with-at-least-k-greater-values](https://github.com/AliLZein/LeetCodeProblems/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 ## String Matching
 |  |
 | ------- |
@@ -621,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AliLZein/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AliLZein/LeetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/AliLZein/LeetCodeProblems/tree/master/1014-k-closest-points-to-origin) |
+| [4141-count-elements-with-at-least-k-greater-values](https://github.com/AliLZein/LeetCodeProblems/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 ## Shortest Path
 |  |
 | ------- |
@@ -648,7 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AliLZein/LeetCodeProblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
-## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AliLZein/LeetCodeProblems/tree/master/0169-majority-element) |
